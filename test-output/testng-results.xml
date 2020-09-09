@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29112" started-at="2020-09-09T13:49:06 IST" finished-at="2020-09-09T13:49:35 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29112" started-at="2020-09-09T13:49:06 IST" finished-at="2020-09-09T13:49:35 IST">
+      <class name="EventHandling.FileDownloadUsingChrome">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:EventHandling.FileDownloadUsingChrome@3d921e20]" name="browserSetup" is-config="true" duration-ms="17251" started-at="2020-09-09T13:49:06 IST" finished-at="2020-09-09T13:49:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="downloadingFile()[pri:0, instance:EventHandling.FileDownloadUsingChrome@3d921e20]" name="downloadingFile" duration-ms="7495" started-at="2020-09-09T13:49:24 IST" finished-at="2020-09-09T13:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadingFile -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:EventHandling.FileDownloadUsingChrome@3d921e20]" name="browserClose" is-config="true" duration-ms="4312" started-at="2020-09-09T13:49:31 IST" finished-at="2020-09-09T13:49:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- EventHandling.FileDownloadUsingChrome -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
